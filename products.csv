@@ -1,0 +1,11 @@
+product_id,name,category,description
+C9300-24T,Cisco Catalyst 9300 24-Port Switch,Switching,"Enterprise-class stackable access-layer switch offering enhanced security, high-density uplinks, and Cisco DNA Center integration."
+C9300-48P,Cisco Catalyst 9300 48-Port PoE+,Switching,"High‑performance Layer 3 switch with 48 PoE+ ports, ideal for powering access points and IoT devices with advanced segmentation."
+ISR4331,Cisco ISR 4331 Integrated Services Router,Routing,"Modular branch router delivering secure WAN, voice, and application services with built‑in redundancy."
+ASA5508,Cisco ASA 5508-X Firewall,Security,"Next‑generation firewall providing threat defense, VPN, and advanced malware protection for small to medium offices."
+MX75,Cisco Meraki MX75 Security & SD-WAN Appliance,SD-WAN,"Cloud‑managed security and SD‑WAN appliance with auto VPN, content filtering, and easy remote deployment."
+AP9136,Cisco Catalyst 9136 Wi-Fi 6E Access Point,Wireless,Tri‑band Wi‑Fi 6E access point delivering ultra‑high density and intelligent RF with CleanAir Pro.
+DNAC,Cisco DNA Center,Automation,"Centralized network automation and assurance platform enabling intent‑based networking, policy, and analytics."
+ISE,Cisco Identity Services Engine (ISE),Security,"Network access control and zero‑trust policy engine for endpoint visibility, authentication, and compliance."
+UCSC-C240,Cisco UCS C240 M6 Rack Server,Compute,"2RU dual‑socket x86 server optimized for virtualization, storage, and performance‑intensive workloads."
+HyperFlex,Cisco HyperFlex HX220c,Hyperconverged,"Hyperconverged infrastructure platform combining compute, storage, and networking with simplified management."
